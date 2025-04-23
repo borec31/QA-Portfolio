@@ -10,7 +10,7 @@ QA Engineer specializing in automation testing with Python and Selenium.
 ### E-Commerce Testing
 - Automated checkout process.
 - Tools: Selenium, Pytest.
-- [View Code](./ecommerce-testing)
+- [View Code](./selenium_test.py)
 
 ### Form Automation
 - Tested registration form.
