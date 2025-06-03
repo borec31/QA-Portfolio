@@ -20,3 +20,4 @@ QA Engineer specializing in automation testing with Python and Selenium.
 ## Мой диплом
 
 [![Мой диплом](https://github.com/borec31/QA-Portfolio/raw/main/diploma.pdf)](https://github.com/borec31/QA-Portfolio/raw/main/diploma.pdf)
+![Мой диплом](https://github.com/borec31/QA-Portfolio/raw/main/diploma.png)
