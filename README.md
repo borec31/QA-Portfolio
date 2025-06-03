@@ -17,6 +17,6 @@ QA Engineer specializing in automation testing with Python and Selenium.
 - Tools: Selenium, Faker.
 - [View Code](./ecommerce-testingteststest_add_to_cart.py)
 
-## My diploma
+## Мой диплом
 
-[Мой диплом](./diploma.pdf)
+[![Мой диплом](https://github.com/borec31/QA-Portfolio/raw/main/diploma.pdf)](https://github.com/borec31/QA-Portfolio/raw/main/diploma.pdf)
